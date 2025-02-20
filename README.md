@@ -12,6 +12,9 @@ You can download LLAMP model weight here.
 
 https://drive.google.com/file/d/1hmfL7uRZsHo4pn0o0nqaqPcntxGJIhE7/view?usp=sharing
 
+## Model Implementation
+The model implemented for the AMP MIC prediction in inference.ipynb.
+
 
 ## License
 
