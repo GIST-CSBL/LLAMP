@@ -15,6 +15,22 @@ https://drive.google.com/file/d/1hmfL7uRZsHo4pn0o0nqaqPcntxGJIhE7/view?usp=shari
 ## Model Implementation
 The model implemented for the AMP MIC prediction in inference.ipynb.
 
+```
+# environment setting
+$ git clone https://github.com/GIST-CSBL/LLAMP.git
+
+$ cd LLAMP
+
+$ conda create -n LLAMP python==3.9.13
+
+$ conda activate LLAMP
+
+$ pip install -r requirement.txt
+
+$ pip install ipykernel
+
+$ python -m ipykernel install --user --name LLAMP --display-name "LLAMP"
+```
 
 ## License
 
