@@ -34,6 +34,12 @@ $ python -m ipykernel install --user --name LLAMP --display-name "LLAMP"
 
 ## License
 
+This repository contains materials under two different licenses:
+
+### Code License (PolyForm Noncommercial License 1.0.0)
+All source code in this repository is licensed under the [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/), which permits use for non-commercial purposes only.  
+See the [LICENSE](LICENSE) file for full terms.
+
 ## Contact
 Daehun Bae (qoeogns09@gm.gist.ac.kr)
 
